@@ -1,7 +1,8 @@
 ###  Hola 
-:raised_hand: mi Nombre es Borja Aladren y Soy estudiante del Itaca :mortar_board:
+:raised_hand: mi Nombre es Borja Aladren y Soy estudiante del Itaca :mortar_board: 
 ###  :mailbox_with_mail: Mi Gmail por si quieres contactarme [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=0297baladren@e-itaca.es)](mailto:0297baladren@e-itaca.es)
-### [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/borjaaladren/)](https://github.com/borjaaladren/)
+### Este es mi github 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/borjaaladren/)](https://github.com/borjaaladren/)
 ### <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/>
 
 ## About soy informatico 
