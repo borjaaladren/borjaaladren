@@ -1,5 +1,5 @@
-### Hola 
-:raised_hand: mi Nombre es Borja Aladren y Soy estudiante del Itaca :mortar_board: Me gustaria en un futuro poder seguir estudiando y trabajando
+### Hola :raised_hand:
+ mi Nombre es Borja Aladren y Soy estudiante del Itaca :mortar_board: Me gustaria en un futuro poder seguir estudiando y trabajando
 
 
 ### Sobre mi 
