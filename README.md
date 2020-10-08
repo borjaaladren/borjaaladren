@@ -1,8 +1,10 @@
 ### Hola 
-:raised_hand: mi Nombre es Borja Aladren y Soy estudiante del Itaca :mortar_board: 
+:raised_hand: mi Nombre es Borja Aladren y Soy estudiante del Itaca :mortar_board: Me gustaria en un futuro poder seguir estudiando y trabajando
+
 
 ### Sobre mi 
-Soy informatico me gusta todo lo relacionado con la tecnologia y sobre todo la informatica en general
+Soy informatico me gusta todo lo relacionado con la tecnologia y sobre todo la informatica en general :bomb:
+
 
 ###  :mailbox_with_mail: Mi Gmail por si quieres contactarme [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=0297baladren@e-itaca.es)](mailto:0297baladren@e-itaca.es)
 
